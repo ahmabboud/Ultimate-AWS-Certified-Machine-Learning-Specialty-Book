@@ -1,0 +1,7 @@
+boto3==1.35.76             # AWS SDK for Python to interact with AWS services
+botocore==1.35.76           # Core library required by boto3
+awscli==1.36.17             # AWS Command Line Interface package
+pandas==2.2.3               # For data manipulation and processing
+numpy==2.2.0               # For numerical computations
+pyarrow==18.1.0             # For handling columnar data formats (e.g., Parquet)
+s3transfer==0.10.4          # For efficient S3 file transfer

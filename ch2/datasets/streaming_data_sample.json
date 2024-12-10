@@ -1,0 +1,5 @@
+[
+    {"customer_id": "101", "purchase_amount": 45.67, "timestamp": "2024-12-09T12:00:00Z"},
+    {"customer_id": "102", "purchase_amount": 89.23, "timestamp": "2024-12-09T12:01:00Z"}
+  ]
+  
