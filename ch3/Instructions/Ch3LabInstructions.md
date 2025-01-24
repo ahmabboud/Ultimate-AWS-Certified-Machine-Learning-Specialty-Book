@@ -16,6 +16,8 @@ This lab will guide you through using Python and Amazon QuickSight to visualize 
 ## **Repository Structure**
 Ensure that you have the following files in your repository:
 
+repo: https://github.com/ahmabboud/Ultimate-AWS-Certified-Machine-Learning-Specialty-Book.git
+
 ```
 ch3/
 ├── datasets/
