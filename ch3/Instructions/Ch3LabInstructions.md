@@ -194,6 +194,6 @@ For detailed steps, refer to [Deleting Your Amazon QuickSight Subscription](http
 This lab provides hands-on experience with visualization techniques, EDA, and bias evaluation—key skills for real-world machine learning workflows and AWS certification exams!
 
 Citations:
-[1] https://aws.amazon.com/pm/quicksight/
-[2] https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html
-[3] https://docs.aws.amazon.com/en_us/quicksight/latest/user/closing-account.html
+- [1] https://aws.amazon.com/pm/quicksight/
+- [2] https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html
+- [3] https://docs.aws.amazon.com/en_us/quicksight/latest/user/closing-account.html
