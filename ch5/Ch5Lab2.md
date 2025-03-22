@@ -205,7 +205,5 @@ print(generated_text)
 - Optimize hyperparameters for better model performance
 - Be cautious with generative AI outputs and validate results
 
-By completing this lab, you've gained hands-on experience with advanced modeling techniques, including ensemble methods, model evaluation, optimization, and generative AI using Amazon SageMaker and Bedrock.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/18750853/e08d5525-1c3e-4774-91a6-eb51f8a0f4bc/Chapter-5-Advanced-Modelling-Techniques-Outline.docx
+
